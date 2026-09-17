@@ -609,25 +609,9 @@ La siguiente captura evidencia la operación Rehacer (Redo), mediante la cual se
 ![Redo](img/captura-redo.png)
 ---
 
-## 17. Sustentación individual
+## 17. Video de sustentación
 
-La actividad requiere una sustentación individual mediante un video de máximo 3 minutos.
-
-Durante el video se debe:
-
-- Realizar una presentación formal.
-- Mostrar el rostro.
-- Explicar la lógica de `push()`.
-- Explicar la lógica de `pop()`.
-- Demostrar el ciclo Registro → Deshacer → Rehacer.
-
-### Enlace del video
-
-**PENDIENTE DE AGREGAR:**
-
-```text
-[Enlace al video de sustentación]
-```
+[Ver video de sustentación en Google Drive](https://drive.google.com/file/d/1gS0DQc67g3D35EV5UxxWHrzEqvax6s8R/view?usp=sharing)
 
 ---
 
@@ -666,7 +650,6 @@ Los commits deben corresponder a trabajo real realizado por cada integrante.
 
 El proyecto fue desarrollado individualmente.
 
-Si el proyecto se desarrolla individualmente, registrar únicamente al estudiante correspondiente.
 
 ---
 
