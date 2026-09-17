@@ -637,10 +637,9 @@ El proyecto debe estar disponible en un repositorio público de GitHub.
 
 ### Repositorio
 
-**PENDIENTE DE AGREGAR:**
+El proyecto se encuentra disponible en un repositorio público de GitHub:
 
-```text
-[Enlace al repositorio de GitHub]
+[Repositorio Pizza-Track](https://github.com/andreseduardovega/S35---EA2.-Manipulaci-n-de-Arreglos-y-Listas-en-Java)
 ```
 
 ### Commits
@@ -663,9 +662,9 @@ Los commits deben corresponder a trabajo real realizado por cada integrante.
 
 | Nombre | Rol / participación |
 |---|---|
-| PENDIENTE | Desarrollo |
-| PENDIENTE | Desarrollo |
-| PENDIENTE | Desarrollo |
+| Andrés Vega | Desarrollo, implementación y documentación |
+
+El proyecto fue desarrollado individualmente.
 
 Si el proyecto se desarrolla individualmente, registrar únicamente al estudiante correspondiente.
 
