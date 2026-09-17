@@ -586,28 +586,27 @@ PUSH PRINCIPAL
 
 ### Captura 1 — Menú principal
 
-**[INSERTAR AQUÍ CAPTURA DE PANTALLA]**
+La siguiente captura evidencia la ejecución de Pizza-Track y la presentación del menú principal.
 
-Debe mostrar el menú de Pizza-Track ejecutándose en la consola.
+![Menú principal](img/captura-menu.png)
 
 ### Captura 2 — Registro de pedidos
 
-**[INSERTAR AQUÍ CAPTURA DE PANTALLA]**
+La siguiente captura evidencia el registro de dos pedidos de pizza, cada uno con sus tres ingredientes.
 
-Debe evidenciar el registro de una pizza con sus tres ingredientes.
+![Registro de pedidos](img/captura-registro.png)
 
 ### Captura 3 — Undo
 
-**[INSERTAR AQUÍ CAPTURA DE PANTALLA]**
+La siguiente captura evidencia la operación Deshacer (Undo), mediante la cual se retira el último pedido de la pila principal.
 
-Debe evidenciar que el último pedido fue deshecho.
+![Undo](img/captura-undo.png)
 
 ### Captura 4 — Redo
 
-**[INSERTAR AQUÍ CAPTURA DE PANTALLA]**
+La siguiente captura evidencia la operación Rehacer (Redo), mediante la cual se recupera el pedido que había sido deshecho.
 
-Debe evidenciar que el pedido fue recuperado.
-
+![Redo](img/captura-redo.png)
 ---
 
 ## 17. Sustentación individual
