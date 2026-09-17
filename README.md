@@ -428,14 +428,19 @@ Finaliza la aplicación.
 ## 12. Estructura del proyecto
 
 ```text
-Pizza-Track/
+S35 - EA2. Manipulación de Arreglos y Listas en Java/
+│
+├── img/
+│   ├── captura-menu.png
+│   ├── captura-registro.png
+│   ├── captura-undo.png
+│   └── captura-redo.png
 │
 ├── Pizza.java
 ├── Nodo.java
 ├── PilaPizza.java
 ├── GestionPedidos.java
 ├── Main.java
-│
 └── README.md
 ```
 
